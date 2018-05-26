@@ -1,0 +1,4 @@
+*.pyc
+venv/
+SQLiteStudio/
+*.tar.xz
